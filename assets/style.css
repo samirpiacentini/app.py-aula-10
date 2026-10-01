@@ -1,0 +1,20 @@
+/* Customização e modernização da interface Streamlit */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.stButton>button {
+    width: 100%;
+    border-radius: 8px;
+    height: 2.8rem;
+    font-weight: 600;
+}
+
+.metric-card {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}

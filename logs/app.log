@@ -1,0 +1,31 @@
+[2026-10-01 17:07:12] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:07:37] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:07:37] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:07:46] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:07:53] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:08:03] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:08:53] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:13:04] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:13:08] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:13:37] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:16:07] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:19:29] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:20:21] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:20:25] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:21:40] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:25:52] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:28:56] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:29:01] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:29:40] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:29:43] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:30:17] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:32:43] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:42:58] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:45:05] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:45:35] [ERROR] [app_logger]: A biblioteca cv2 instalada não possui o atributo CascadeClassifier.
+[2026-10-01 17:45:38] [ERROR] [app_logger]: A biblioteca cv2 instalada não possui o atributo CascadeClassifier.
+[2026-10-01 17:45:49] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:47:56] [INFO] [app_logger]: Banco de dados inicializado e tabelas verificadas.
+[2026-10-01 17:48:02] [ERROR] [app_logger]: A biblioteca cv2 instalada não possui o atributo CascadeClassifier.
+[2026-10-01 17:48:04] [INFO] [app_logger]: Análise de Visão Computacional concluída com sucesso.
+[2026-10-01 17:48:04] [ERROR] [app_logger]: Erro no módulo de interface de captura: type object 'StorageService' has no attribute 'save_image'
